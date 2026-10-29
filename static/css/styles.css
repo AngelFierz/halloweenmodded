@@ -8,6 +8,9 @@ body {
     font-family: "Segoe UI", Arial, sans-serif;
     background: #1b1b24;
     color: #ececf1;
+    background-image: url('../images/test.mp4');
+    background-size: cover;
+    background-position: center;
 }
 
 .container {
@@ -86,7 +89,7 @@ td {
 }
 
 th {
-    background: #ff8c1a;
+    background: #ff0000;
     color: #1b1b24;
 }
 
