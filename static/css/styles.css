@@ -6,9 +6,7 @@ body {
     margin: 0;
     padding: 40px 16px;
     font-family: "Segoe UI", Arial, sans-serif;
-    background: #1b1b24;
-    color: #ececf1;
-    background-image: url('../images/test.mp4');
+    background-image: url('images/static.gif');
     background-size: cover;
     background-position: center;
 }
